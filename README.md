@@ -23,3 +23,4 @@ Press 'N' to start a new game.
 Press 'P' to pause the game.  
 Press 'F' to end the game and save your score.  
 Press 'ESC' to exit the game.  
+ 
